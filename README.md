@@ -1,8 +1,8 @@
 notebooks
 =========
 
-Ipython notes and calcs. Click on a '.ipynb' view to view a rendering
-of a notebook.
+Ipython notes and calcs. Click on a '.ipynb' file (or on the links
+below) to view a rendering of a notebook.
 
 ##View them with nbviewer:
 

@@ -11,3 +11,5 @@ below) to view a rendering of a notebook.
 [regression.ipynb](./regression.ipynb): Linear regression of WISE AGN colors using CLUMPY models.
 
 [will-it-fit.ipynb](./will-it-fit.ipynb): Example how to use `willitfit.py` (Bayesian SED fitting using MCMC sampling and `PyMC`).
+
+[hypercubizer_clumpy.ipynb](./hypercubizer_clumpy.ipynb): Example how to use `hypercubizer.py` with CLUMPY FITS files.
